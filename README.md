@@ -23,5 +23,4 @@ Below I have listed the repositories where each page was deployed to github.io:
 -Cloudiness page repo: https://github.com/carvilla333/Cloudiness_Latitude.github.io
 
 -Humidity page repo: https://github.com/carvilla333/Humidity.github.io
-
 -Temperature page repo: https://github.com/carvilla333/Temperature_Latitude.github.io
