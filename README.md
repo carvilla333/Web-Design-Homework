@@ -1,7 +1,6 @@
 # Web-Design-Homework
 
 For this homework assignement we created a visualization dashboard website with the visuals we made in the API Homework for plotting weather data.
-
 This dashboard we have created inlcudes individual pages for each plot and a means by which we can navigate between them. These pages contain the
 visualizations and their corresponding explanations. We have a landing page, a page where we can see a comparison of all of the plots,and another
 page where we can view the data used to build them.
@@ -23,4 +22,5 @@ Below I have listed the repositories where each page was deployed to github.io:
 -Cloudiness page repo: https://github.com/carvilla333/Cloudiness_Latitude.github.io
 
 -Humidity page repo: https://github.com/carvilla333/Humidity.github.io
+
 -Temperature page repo: https://github.com/carvilla333/Temperature_Latitude.github.io
