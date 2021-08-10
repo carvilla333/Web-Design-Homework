@@ -13,9 +13,15 @@ The link to the final website is the following: https://carvilla333.github.io/La
 Below I have listed the repositories where each page was deployed to github.io:
 
 -Landing page repo: https://github.com/carvilla333/Landing.github.io
+
 -Visual grid page repo: https://github.com/carvilla333/visual_grid.github.io
+
 -Visual data source page repo: https://github.com/carvilla333/visualization_data.github.io
+
 -Wind speed page repo: https://github.com/carvilla333/Wind_Speed.github.io
+
 -Cloudiness page repo: https://github.com/carvilla333/Cloudiness_Latitude.github.io
+
 -Humidity page repo: https://github.com/carvilla333/Humidity.github.io
+
 -Temperature page repo: https://github.com/carvilla333/Temperature_Latitude.github.io
