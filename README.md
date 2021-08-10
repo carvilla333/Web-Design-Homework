@@ -5,8 +5,10 @@ This dashboard we have created inlcudes individual pages for each plot and a mea
 visualizations and their corresponding explanations. We have a landing page, a page where we can see a comparison of all of the plots,and another
 page where we can view the data used to build them.
 
+
 Each page was uploaded to github independently, and then we used hyperlinks to reference them in our main landing web page.
 The link to the final website is the following: https://carvilla333.github.io/Landing.github.io/
+
 
 Below I have listed the repositories where each page was deployed to github.io:
 
